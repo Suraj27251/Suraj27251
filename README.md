@@ -2,22 +2,30 @@
 
 <!-- ══════════════════════════════════════════════════════════════════
      AI-GENERATED HERO BANNER
+     Business Analysis • Telecom / ISP • Data Analytics • AI Automation
+     
      Generated on demand by Pollinations AI (no API key needed).
-     Both themes verified live. To self-host instead, download the two
-     images and point these URLs at relative paths:
+     Both themes use profile-specific visuals:
+     BPMN/process mapping → data analytics → telecom infrastructure
+     → ERP/CRM/API integration → AI/workflow automation.
+     
+     To self-host instead, download the two images and point these
+     URLs at relative paths:
          src="./assets/hero-dark.jpg"  /  src="./assets/hero-light.jpg"
      ══════════════════════════════════════════════════════════════════ -->
 
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://image.pollinations.ai/prompt/Ultra%20modern%20dark%20abstract%20banner%2C%20deep%20navy%20black%20background%2C%20glowing%20cyan%20and%20violet%20data%20network%20of%20connected%20nodes%2C%20telecom%20fiber%20optic%20light%20streaks%2C%20faint%20analytics%20dashboard%20grid%2C%20bokeh%20depth%2C%20cinematic%20wide%20banner%2C%20no%20text%2C%20no%20words%2C%20no%20letters?width=1500&height=420&nologo=true&seed=42&model=flux">
+    srcset="https://image.pollinations.ai/prompt/Professional%20enterprise%20technology%20banner%20for%20a%20Business%20Analyst%20and%20Operations%20Specialist%2C%20deep%20navy%20background%2C%20left%20side%20showing%20a%20clean%20BPMN%20business%20process%20flow%20with%20connected%20process%20nodes%20and%20decision%20diamonds%2C%20center%20showing%20subtle%20SQL%20data%20tables%20and%20modern%20analytics%20dashboard%20charts%2C%20right%20side%20showing%20telecom%20fiber%20optic%20network%20connections%20and%20ISP%20infrastructure%2C%20subtle%20ERP%20CRM%20API%20integration%20lines%20and%20AI%20workflow%20automation%20nodes%2C%20professional%20corporate%20consulting%20aesthetic%2C%20premium%20realistic%20technology%20visualization%2C%20cinematic%20wide%20composition%2C%20cyan%20blue%20and%20violet%20accents%2C%20clean%20depth%2C%20no%20people%2C%20no%20text%2C%20no%20words%2C%20no%20letters%2C%20no%20logos?width=1500&height=420&nologo=true&seed=73&model=flux">
+  
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://image.pollinations.ai/prompt/Clean%20light%20abstract%20banner%2C%20white%20and%20soft%20ice%20blue%20background%2C%20blue%20and%20violet%20data%20network%20of%20connected%20nodes%2C%20telecom%20fiber%20optic%20light%20streaks%2C%20faint%20analytics%20dashboard%20grid%2C%20minimal%20wide%20banner%2C%20no%20text%2C%20no%20words%2C%20no%20letters?width=1500&height=420&nologo=true&seed=42&model=flux">
+    srcset="https://image.pollinations.ai/prompt/Professional%20enterprise%20technology%20banner%20for%20a%20Business%20Analyst%20and%20Operations%20Specialist%2C%20clean%20white%20and%20soft%20ice%20blue%20background%2C%20left%20side%20showing%20a%20clean%20BPMN%20business%20process%20flow%20with%20connected%20process%20nodes%20and%20decision%20diamonds%2C%20center%20showing%20subtle%20SQL%20data%20tables%20and%20modern%20analytics%20dashboard%20charts%2C%20right%20side%20showing%20telecom%20fiber%20optic%20network%20connections%20and%20ISP%20infrastructure%2C%20subtle%20ERP%20CRM%20API%20integration%20lines%20and%20AI%20workflow%20automation%20nodes%2C%20professional%20corporate%20consulting%20aesthetic%2C%20premium%20realistic%20technology%20visualization%2C%20minimal%20wide%20composition%2C%20blue%20cyan%20and%20violet%20accents%2C%20clean%20depth%2C%20no%20people%2C%20no%20text%2C%20no%20words%2C%20no%20letters%2C%20no%20logos?width=1500&height=420&nologo=true&seed=74&model=flux">
+
   <img
-    alt="Suraj Sonawane — Business Analyst working across business process, data and AI automation"
-    src="https://image.pollinations.ai/prompt/Ultra%20modern%20dark%20abstract%20banner%2C%20deep%20navy%20black%20background%2C%20glowing%20cyan%20and%20violet%20data%20network%20of%20connected%20nodes%2C%20telecom%20fiber%20optic%20light%20streaks%2C%20faint%20analytics%20dashboard%20grid%2C%20bokeh%20depth%2C%20cinematic%20wide%20banner%2C%20no%20text%2C%20no%20words%2C%20no%20letters?width=1500&height=420&nologo=true&seed=42&model=flux"
+    alt="Business Analyst profile banner showing business process analysis, telecom infrastructure, data analytics and AI workflow automation"
+    src="https://image.pollinations.ai/prompt/Professional%20enterprise%20technology%20banner%20for%20a%20Business%20Analyst%20and%20Operations%20Specialist%2C%20deep%20navy%20background%2C%20left%20side%20showing%20a%20clean%20BPMN%20business%20process%20flow%20with%20connected%20process%20nodes%20and%20decision%20diamonds%2C%20center%20showing%20subtle%20SQL%20data%20tables%20and%20modern%20analytics%20dashboard%20charts%2C%20right%20side%20showing%20telecom%20fiber%20optic%20network%20connections%20and%20ISP%20infrastructure%2C%20subtle%20ERP%20CRM%20API%20integration%20lines%20and%20AI%20workflow%20automation%20nodes%2C%20professional%20corporate%20consulting%20aesthetic%2C%20premium%20realistic%20technology%20visualization%2C%20cinematic%20wide%20composition%2C%20cyan%20blue%20and%20violet%20accents%2C%20clean%20depth%2C%20no%20people%2C%20no%20text%2C%20no%20words%2C%20no%20letters%2C%20no%20logos?width=1500&height=420&nologo=true&seed=73&model=flux"
     width="100%" />
 </picture>
 
